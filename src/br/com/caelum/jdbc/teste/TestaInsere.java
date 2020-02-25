@@ -10,8 +10,8 @@ public class TestaInsere {
 	public static void main(String[] args) {
 		
 		Contato contato = new Contato();
-		contato.setNome("Caelum");
-		contato.setEmail("contato@caelum.com.br");
+		contato.setNome("Andre");
+		contato.setEmail("andre.oliveira@hotmail.com.br");
 		contato.setEndereco("R. Vergueiro 3185 cj57");
 		contato.setDataNascimento(Calendar.getInstance());
 		
